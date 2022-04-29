@@ -32,6 +32,8 @@ ul{
 }
 
 
+
+
 .products{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -60,3 +62,5 @@ ul{
     background: #85c1e9;
     overflow: hidden;
 }
+
+.fixed{position:fixed; top:0}
